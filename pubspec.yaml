@@ -1,0 +1,7 @@
+name: graphtool
+description: A sample web application
+dependencies:
+  browser: any
+  ini: 1.0.0
+  math_expressions: any
+  vector_math: any
